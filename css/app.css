@@ -2,3 +2,8 @@
     width: 100%;
     height: 3000px;
 }
+
+.landing {
+    background: url(../img/backgrounds/hero.jpg);
+    background-size: cover;
+}
